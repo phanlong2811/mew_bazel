@@ -1,3 +1,3 @@
-module github.com/YOUR-USER-OR-ORG-NAME/YOUR-REPO-NAME
+module github.com/phanlong2811/mew_bazel
 
 go 1.19
